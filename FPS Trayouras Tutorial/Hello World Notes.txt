@@ -1,0 +1,5 @@
+The tutorial I followed was mostly in-app, there is a very light overview here though: https://learn.unity.com/project/fps-template?uv=2022.3&courseId=61eea465edbc2a0f0e765e16
+I also completed the very basic tutorial Unity starts you off with, but this one has a settings menu and was more interesting
+
+
+Besides completing the tutorial, I also added more enemies (with their own paths), added a setting to the menu to make your mouse sensitivity unplayable, and I altered the jump/gravity to a point I liked
